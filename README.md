@@ -10,6 +10,12 @@ This repository shows a GitOps workflow using ArgoCD with Helm for automated Kub
 
 - Helm: v3.18.6
 
+### Minikube Setup: 
+```bash
+minikube start --driver=docker
+```
+
+
 ### Install ArgoCD: 
 
 ```bash
