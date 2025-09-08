@@ -2,7 +2,7 @@ replicaCount: 2
 
 image: 
   repository: ghcr.io/alexandermamaniy/kubernetes-cicd
-  tag: ae36878e499529dc2fcdb6afdf6a255c1b361e2e
+  tag: c645c9379dc1e786c21542d3d0bbf773cee00a4c
   pullPolicy: IfNotPresent
   imagePullSecrets: ghcr-secret
 
